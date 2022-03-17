@@ -34,3 +34,4 @@ Com isso, a quantidade passava a bater.
 Claro que não traz prejuízo ao ensinamento que é trazido pela questão7, mas como sempre gosto de fazer a prova real, acabei me deparando com isso.
 
 ## 2) DesafioCap07
+Contém as resoluções das 5 missões propostas no Desafio do Cap07 do Curso.
