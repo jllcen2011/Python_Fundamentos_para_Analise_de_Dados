@@ -38,4 +38,7 @@ Contém as resoluções das 5 missões propostas no Desafio do Cap07 do Curso.
 
 ## 3) MiniProjetoCap09
 Contém 1 exercício de análise exploratória de autoria do curso. Foi salvo aqui como forma de se ter a mãos boas práticas e principais gráficos de análise exploratória;
+
+Contém um outro exercício de análise exploratória, mas de minha autoria; e
+
 Contém, também a resolução .......
