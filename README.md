@@ -41,4 +41,16 @@ Contém 1 exercício de análise exploratória de autoria do curso. Foi salvo aq
 
 Contém um outro exercício de análise exploratória, mas de minha autoria; e
 
-Contém, também a resolução .......
+Contém, também a resolução do MiniProjeto.
+
+## 4) TensorFlow
+Contém exercícios introdutórios de operações com tensores.
+
+Contém a resolução de um dataset do Kaggle Boston House Prices Dataset, com Modelagem Preditiva - Regressão Linear simples.
+
+## 5) Machine Learning
+Exercício de machine learning com dataset de ocorrência de diabetes do Kaggle. Foram usados os modelos de Logistic Regression e Random Forest.
+
+## 6) Deep Learning
+Foi realizado o MiniProjeto4 do curso, construindo um modelo de deep learning para reconhecimento de imagens de frutas.
+
